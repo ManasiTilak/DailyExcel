@@ -1,3 +1,6 @@
+'''
+Counts characters in each cell and adds it's value in another column.
+'''
 import pandas as pd
 
 # Load the Excel file
